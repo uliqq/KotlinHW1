@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinHW1</string>
+    <string name="send">Send</string>
+    <string name="put_message">Put message</string>
+    <string name="send_there">Send There</string>
+    <string name="put_message2">Put Message</string>
+</resources>
